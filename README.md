@@ -51,7 +51,8 @@ data.describe()
 x=data.iloc[:,:-1].values
 y=data.iloc[:,-1].values
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/58206728-c934-435b-912e-da0bc3ddabf4)
+
 
 ```
 from sklearn.model_selection import train_test_split
